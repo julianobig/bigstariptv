@@ -1755,6 +1755,18 @@ body {
   text-align: center;
   color: #232323;
 }
+.cid-qHomcK96ua {
+  background: #ffffff;
+}
+.cid-qHomcK96ua .video-block {
+  margin: auto;
+  width: 100% !important;
+}
+@media (max-width: 768px) {
+  .cid-qHomcK96ua .video-block {
+    width: 100% !important;
+  }
+}
 .cid-qxFUJqLaFw {
   padding-top: 30px;
   padding-bottom: 0px;
@@ -1808,32 +1820,16 @@ body {
 .cid-qxFSz1YCOz {
   background-image: url("../../../assets/images/iptv-1920x1080.jpg");
 }
-.cid-qxG725KpAn {
+.cid-qHomkHwbKh {
   padding-top: 90px;
   padding-bottom: 90px;
   background-color: #ffffff;
 }
-.cid-qxG725KpAn .title {
-  margin-bottom: 2rem;
+.cid-qHomkHwbKh .mbr-section-subtitle {
+  color: #767676;
 }
-.cid-qxG725KpAn .mbr-section-subtitle {
-  color: #232323;
-}
-.cid-qxG725KpAn a:not([href]):not([tabindex]) {
-  color: #fff;
-  border-radius: 3px;
-}
-.cid-qxG725KpAn a.btn-white:not([href]):not([tabindex]) {
-  color: #333;
-}
-.cid-qxG725KpAn .multi-horizontal {
-  flex-grow: 1;
-  -webkit-flex-grow: 1;
-  max-width: 100%;
-}
-.cid-qxG725KpAn .input-group-btn {
-  display: block;
-  text-align: center;
+.cid-qHomkHwbKh .btn {
+  margin: 0 0 .5rem 0;
 }
 .cid-qxG4dzFDxa {
   padding-top: 90px;
