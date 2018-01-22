@@ -30,7 +30,9 @@
         "isAnimatedOnScroll": true,
         "isScrollToTopButton": false
       },
-      "additionalSetColors": []
+      "additionalSetColors": [
+        "#0058ff"
+      ]
     },
     "favicon": "",
     "noImageResize": "",
@@ -63,7 +65,8 @@
               "background-color": "@bg-value"
             },
             "H1": {
-              "color": "#cc2952"
+              "color": "#0058ff",
+              "text-align": "center"
             }
           },
           "_cid": "qxFNJ9I7lm",
